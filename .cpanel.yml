@@ -1,7 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/natalban/public_html/
-    - /bin/cp -R index.html $DEPLOYPATH
-    - /bin/cp -R bio.html $DEPLOYPATH
-    - /bin/cp -R assets $DEPLOYPATH
+    - export DEPLOYPATH=/DATA/konsered/public_html
+    - /usr/bin/rsync -Paz * $DEPLOYPATH --delete

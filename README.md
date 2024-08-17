@@ -1,7 +1,7 @@
-# Landing Page: Acara 'Sacred Hymn: His Message & His Melody'
+# Landing Page: konseredukasi.com
 
-Untuk keperluan acara 'Sacred Hymn: His Message & His Melody' @ GRII Bandung
-Impoted from https://github.com/kkrnatal/kkrnatal.github.io
+Untuk web konseredukasi.com
+Impoted from https://github.com/pujangga123/konseredukasi.git
 
 File Edit:
 - `assets/css/style.css`
