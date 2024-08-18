@@ -3,4 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/public_html
     - /bin/cp -R index.html $DEPLOYPATH
+    - /bin/cp -R index.html /DATA/konsered/public_html
     - /usr/bin/rsync -Paz * $DEPLOYPATH --delete
