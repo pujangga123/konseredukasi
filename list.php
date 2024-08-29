@@ -61,7 +61,7 @@ $d->close();
                     <td><?php echo $row['nama'];?></td>
                     <td><?php echo $row['status']; ?></td>
                     <?php if($editmode) { ?>
-                        <td><a href="https://wa.me/<?php echo $row['telp']; ?>">WhatsApp</a> - <a href="#" onclick="alert('not implemented')">Email</a> - <a href="#">Hapus</a></td>
+                        <td><a href="https://wa.me/<?php echo $row['telp']; ?>?text=Pendaftaran+Konser+Edukasi%0D%0ANomor:*<?php echo $key; ?>*%0D%0A%0D%0Ahttps://konseredukasi.com/gloria/tiket.php%26num=<?php echo $key; ?>">WhatsApp</a> - <a href="#" onclick="alert('not implemented')">Email</a> - <a href="#">Hapus</a></td>
                     <?php } else { ?>
                         <td><a href="#" onclick="alert('not implemented')">check in</a> - <a href="#" onclick="alert('not implemented')">uncheck</a></td>
                     <?php } ?>
