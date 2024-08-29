@@ -23,6 +23,12 @@ while (false !== ($entry = $d->read())) {
             'lain' => $row[9],
             'status' => $row[10]
         );
+        // format telp
+        $telp = $row[$entry]['telp'];
+        if(substr($telp,0,2)=='08') {
+            $telp = "628".substr($telp,2,20);
+            $row[$entry]['telp'] = $telp;
+        }
     }
 }
 $d->close();
@@ -55,9 +61,9 @@ $d->close();
                     <td><?php echo $row['nama'];?></td>
                     <td><?php echo $row['status']; ?></td>
                     <?php if($editmode) { ?>
-                        <td><a href="#">WhatsApp</a> - <a href="#">Email</a> - <a href="#">Hapus</a></td>
+                        <td><a href="https://wa.me/<?php echo $row['telp']; ?>">WhatsApp</a> - <a href="#" onclick="alert('not implemented')">Email</a> - <a href="#">Hapus</a></td>
                     <?php } else { ?>
-                        <td><a href="#">check in</a> - <a href="#">uncheck</a></td>
+                        <td><a href="#" onclick="alert('not implemented')">check in</a> - <a href="#" onclick="alert('not implemented')">uncheck</a></td>
                     <?php } ?>
                 </tr>
             <?php } ?>
