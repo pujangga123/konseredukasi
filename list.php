@@ -7,7 +7,7 @@ $arr = array();
 $d = dir($folder);
 $max = 0;
 while (false !== ($entry = $d->read())) {
-    if($entry!='.' && $entry!='..' & $entry!='README.md') {
+    if($entry!='.' && $entry!='..' && $entry!='README.md') {
         $line = file_get_contents($folder.$entry);
         $row = explode(";",$line);
         $arr[$entry] = array(

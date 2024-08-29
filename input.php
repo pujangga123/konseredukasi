@@ -18,7 +18,7 @@ $folder = "data/";
 $d = dir($folder);
 $max = 0;
 while (false !== ($entry = $d->read())) {
-    if($entry!='.' && $entry!='..') {
+    if($entry!='.' && $entry!='..' && $entry!='README.md') {
         // read number
         $num = $entry * 1;
         if($num>$max) {
@@ -67,10 +67,10 @@ Terdaftar dengan nomor:<br>
 
 // SEND EMAIL & REDIRECT
 if(!$mail->send()){
-    header("location:form.php?num=$nextnum&nama=$nama&nomail");
+    header("location:tiket.php?num=$nextnum&nama=$nama&nomail");
 } else {
     echo 'Message has been sent';
-    header("location:form.php?num=$nextnum&nama=$nama");
+    header("location:tiket.php?num=$nextnum&nama=$nama");
 }
 
     

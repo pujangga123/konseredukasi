@@ -1,5 +1,6 @@
 <?php
     $num = $_GET['num'];
+    $nomail = isset($_GET['nomail']);
     $folder = "data/";
 
     $line  = file_get_contents($folder.$num);
@@ -115,10 +116,14 @@
         <div style="font-size:5em">
           <?php echo $num; ?>
         </div>
-        <p>
+        <?php if($nomail) { ?>
+        <p>          
+          Gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
+        </p>
+        <?php } else { ?>
           Bukti pendaftaran sudah dikirim lewat email ke <strong><?php echo $email; ?></strong>.<br>
           Untuk kemudahan, gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
-        </p>
+        <?php } ?>
       </div>
     </section>
 
