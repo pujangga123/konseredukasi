@@ -69,7 +69,6 @@ Terdaftar dengan nomor:<br>
 if(!$mail->send()){
     header("location:tiket.php?num=$nextnum&nama=$nama&nomail");
 } else {
-    echo 'Message has been sent';
     header("location:tiket.php?num=$nextnum&nama=$nama");
 }
 
