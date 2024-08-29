@@ -24,10 +24,10 @@ while (false !== ($entry = $d->read())) {
             'status' => $row[10]
         );
         // format telp
-        $telp = $row[$entry]['telp'];
+        $telp = $arr[$entry]['telp'];
         if(substr($telp,0,2)=='08') {
             $telp = "628".substr($telp,2,20);
-            $row[$entry]['telp'] = $telp;
+            $arr[$entry]['telp'] = $telp;
         }
     }
 }
