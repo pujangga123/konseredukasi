@@ -30,7 +30,7 @@ $d->close();
 
 $nextnum = $max+1;
 $myfile = fopen("$folder/$nextnum", "w") or die("Unable to open file!");
-$txt = "$nama;$jeniskelamin;$telp;$email;$infoSosmed;$infoWhatsapp;$infoGereja;$infoKeluarga;$infoSpanduk;$infoLain";
+$txt = "$nama;$jeniskelamin;$telp;$email;$infoSosmed;$infoWhatsapp;$infoGereja;$infoKeluarga;$infoSpanduk;$infoLain;-";
 fwrite($myfile, $txt);
 fclose($myfile);
 
@@ -64,18 +64,13 @@ $mail->Body = "<html>
 Terdaftar dengan nomor:<br>
 <h1>$max</h1>
 </html>";
-$mail->AltBody = 'Hi there, we are happy to confirm your booking. Please check the document in the attachment.';
 
-// send the message
+// SEND EMAIL & REDIRECT
 if(!$mail->send()){
-    echo 'Message could not be sent.';
-    echo 'Mailer Error: ' . $mail->ErrorInfo;
+    header("location:form.php?num=$nextnum&nama=$nama&nomail");
 } else {
     echo 'Message has been sent';
+    header("location:form.php?num=$nextnum&nama=$nama");
 }
 
-/////////////////////////////////
-// REDIRECT
-/////////////////////////////////
-header("location:form.php?num=$nextnum&nama=$nama");
     
