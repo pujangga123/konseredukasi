@@ -1,6 +1,15 @@
 <?php
     $num = $_GET['num'];
-    
+    $folder = "data/";
+
+    $line  = file_get_contents($folder.$num);
+    $row = explode(";", $line);
+
+    $nama = $row[0];
+    //$jeniskelamin = $row[1];
+    //$telp = $row[2];
+    $email = $row[3];
+
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
@@ -99,8 +108,19 @@
   </header><!-- End Header -->
 
   <main id="main">
-    
-    
+    <section id="form" style="padding-top:10px; max-width: 500px;" class="mx-auto">
+      <div>
+        <b><?php echo $nama; ?></b>
+        terdaftar dengan nomor<br>
+        <div style="font-size:5em">
+          <?php echo $num; ?>
+        </div>
+        <p>
+          Bukti pendaftaran sudah dikirim lewat email ke <strong><?php echo $email; ?></strong>.<br>
+          Untuk kemudahan, gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
+        </p>
+      </div>
+    </section>
 
 
   </main><!-- End #main -->
