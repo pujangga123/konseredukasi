@@ -81,7 +81,7 @@
   <main id="main">
 
     <!-- ======= HOME Section ======= -->
-    <section id="home" class="about">
+    <section id="home" class="about" style="padding-top:0px">
       <div style="width:100%">
         
           <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url'">
