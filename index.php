@@ -44,7 +44,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css?3" rel="stylesheet">
+  <link href="assets/css/style.css?4" rel="stylesheet">
 
 </head>
 
@@ -79,9 +79,17 @@
   </header>
 
   <main id="main">
-
+    <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
+      <br>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" 
+        class="btn-custom text-center" target="_blank" 
+        style="padding:5px 10px; width:70%;">
+        PENDAFTARAN
+      </a>
+    </div>
     <!-- ======= HOME Section ======= -->
     <section id="home" class="about" style="padding-top:0px">
+      
       <div style="width:100%">
         
           <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url'">
