@@ -55,7 +55,7 @@ $mail->SMTPSecure = 'ssl';
 $mail->Port = 465;
 
 $mail->setFrom('pendaftaran@konseredukasi.com', 'Konser Edukasi');
-$mail->addAddress('pujangga123@gmail.com', 'Me');
+$mail->addAddress($email, $nama);
 $mail->Subject = 'Pendaftaran: Konser Edukasi 2024 Bandung';
 // Set HTML 
 $mail->isHTML(TRUE);
