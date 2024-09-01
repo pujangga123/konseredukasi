@@ -63,11 +63,11 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="#home" class="active">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#profil">Profil</a></li>
-            <li><a href="#lokasi">Lokasi</a></li>
-            <li><a href="#cta">Hubungi Kami</a></li>
+            <li><a href="index.php#home" class="active">Home</a></li>
+            <li><a href="index.php#about">About</a></li>
+            <li><a href="index.php#profil">Profil</a></li>
+            <li><a href="index.php#lokasi">Lokasi</a></li>
+            <li><a href="index.php#cta">Hubungi Kami</a></li>
     
             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
           </ul>
@@ -79,17 +79,17 @@
   </header>
 
   <main id="main">
-    <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
-      <br>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" 
-        class="btn-custom text-center" target="_blank" 
-        style="padding:5px 10px; width:70%;">
-        PENDAFTARAN
-      </a>
-    </div>
+    
     <!-- ======= HOME Section ======= -->
-    <section id="home" class="about" style="padding-top:0px">
-      
+    <section id="home" class="home" style="padding-top:0px">
+      <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
+        <br>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" 
+          class="btn-custom text-center" target="_blank" 
+          style="padding:5px 10px; width:70%;">
+          PENDAFTARAN
+        </a>
+      </div>
       <div style="width:100%">
         
           <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url'">
@@ -159,14 +159,14 @@
     <section id="profil" class="text-center">
       <div class="container">
         <div class="row">
-          <div class="col-6 col-lg-3">
+          <div class="col-6 col-lg-3" onclick="window.location='jimmy-pardede-profile.php'" style="cursor:pointer">
             <img src="assets/img/jimmy-pardede-profile.jpg" alt="" style="max-width:100%">
             <div style="background-color: #c5aa76;" class="text-center p-2">
               <b>Pdt. Jimmy Pardede</b><br>
               <i>Pembicara</i>
             </div>
           </div>
-          <div class="col-6 col-lg-3">
+          <div class="col-6 col-lg-3" onclick="window.location='feby-novitania-profile.php'" style="cursor:pointer">
             <img src="assets/img/blank-profile.jpg" alt="" style="max-width:100%">
             <div style="background-color: #c5aa76;" class="text-center p-2">
               <b>Vik. Feby Novitania</b><br>
