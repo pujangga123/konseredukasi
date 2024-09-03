@@ -94,14 +94,16 @@
         </section>
 
         <section id="profile" class="profile" style="padding-top:0px">
-            <div class="container" style="width:80%">
+            <div class="container" style="width:80%; max-width:800px">
                 <div class="row">
-                    <div class="col-6">
-                        <img src="assets/img/blank-profile.jpg" alt="" class="mx-auto" style="max-width:400px">
+                    <div class="col-lg-6 col-12 mb-3">
+                        <img src="assets/img/feby-novitania-profile.jpg" alt="" style="width:100%; max-width:300px">
                     </div>
-                    <div class="col-6">
-                        <h4>Vik. Feby Novitania</h4>
+                    <div class="col-lg-6 col-12">
+                        <h4><b>Vik. Feby Novitania</b></h4>
                         <h5><i>Konduktor</i></h5>
+                        <img src="assets/img/garis.png" style="max-width:50%; margin-bottom:10px">
+
                         <br>
                         <p>
                             Lahir di Jakarta pada tahun 1997, Feby kecil telah

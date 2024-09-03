@@ -102,6 +102,7 @@
     <section id="about" class="about" style="padding-top:10px">
       <div class="section-title">
         <h2>Mengenai Konser</h2>
+        <img src="assets/img/garis.png">
       </div>
       <div class="container">
         <div class="row">
@@ -157,6 +158,10 @@
     </section><!-- End About Section -->
 
     <section id="profil" class="text-center">
+      <div class="section-title">
+        <h2>Profil</h2>
+        <img src="assets/img/garis.png">
+      </div>
       <div class="container">
         <div class="row">
           <div class="col-6 col-lg-3" onclick="window.location='jimmy-pardede-profile.php'" style="cursor:pointer">
@@ -167,21 +172,21 @@
             </div>
           </div>
           <div class="col-6 col-lg-3" onclick="window.location='feby-novitania-profile.php'" style="cursor:pointer">
-            <img src="assets/img/blank-profile.jpg" alt="" style="max-width:100%">
+            <img src="assets/img/feby-novitania-profile.jpg" alt="" style="max-width:100%">
             <div style="background-color: #c5aa76;" class="text-center p-2">
               <b>Vik. Feby Novitania</b><br>
               <i>Konduktor</i>
             </div>
           </div>
           <div class="col-6 col-lg-3">
-            <img src="assets/img/blank-profile.jpg" alt="" style="max-width:100%">
+            <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" style="max-width:100%">
             <div style="background-color: #c5aa76;" class="text-center p-2">
               <b>Evelyn Kurnia</b><br>
               <i>Sopran</i>
             </div>
           </div>
-          <div class="col-6 col-lg-3">
-            <img src="assets/img/blank-profile.jpg" alt="" style="max-width:100%">
+          <div class="col-6 col-lg-3" onclick="window.location='natasha-situmeang-profile.php'" style="cursor:pointer">
+            <img src="assets/img/natasha-situmeang-profile.jpg" alt="" style="max-width:100%">
             <div style="background-color: #c5aa76;" class="text-center p-2">
               <b>Natasha Situmeang</b><br>
               <i>Alto</i>
@@ -195,12 +200,12 @@
 
     <!-- ======= lokasi Section ======= -->
     <section id="lokasi" class="lokasi">
-      <div class="container" data-aos="zoom-in">
-
         <div class="section-title">
           <!-- <span>Lokasi</span> -->
           <h2>Lokasi</h2>
-          <p>Jl. Moh Toha 229<br>
+          <img src="assets/img/garis.png">
+          <br><br>
+          <p style="font-size:1.2em">Jl. Moh Toha 229<br>
             Kota Bandung, Jawa Barat 40255</p>
         </div>
 
@@ -221,6 +226,7 @@
     <section id="cta" class="cta">
       <div class="section-title" >
         <h2>Hubungi Kami</h2>
+          <img src="assets/img/garis.png">
       </div>
       <div class="container ">
         <div class="row">

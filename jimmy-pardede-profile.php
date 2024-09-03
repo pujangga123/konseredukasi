@@ -94,14 +94,16 @@
         </section>
 
         <section id="profile" class="profile" style="padding-top:0px">
-            <div class="container" style="width:80%">
+            <div class="container" style="width:80%; max-width:800px">
                 <div class="row">
-                    <div class="col-6">
-                        <img src="assets/img/jimmy-pardede-profile.jpg" alt="" class="mx-auto" style="max-width:400px">
+                    <div class="col-lg-6 col-12 mb-3">
+                        <img src="assets/img/jimmy-pardede-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
                     </div>
-                    <div class="col-6">
-                        <h4>Pdt. Jimmy Pardede</h4>
+                    <div class="col-lg-6 col-12">
+                        <h4><b>Pdt. Jimmy Pardede</b></h4>
                         <h5><i>Pembicara</i></h5>
+                        <img src="assets/img/garis.png" style="max-width:50%; margin-bottom:10px">
+
                         <br>
                         <p>
                             Menyelesaikan studi Master of Arts di STTRII (d/h Institut Reformed) pada tahun 2008, dan memperoleh gelar M.Th. dari STTRII di tahun 2014.
