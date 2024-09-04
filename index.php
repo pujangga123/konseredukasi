@@ -117,22 +117,19 @@
           </div>
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
             <p>
-              Musik klasik adalah salah satu genre musik yang sangat agung.
-              Meski telah berumur ratusan tahun genre ini tetap menginspirasi banyak orang sepanjang masa,
-              baik dari susunan melodi, harmoni, maupun liriknya.
-            </p>
-
-            <p>
-              <i>Gloria in D Major RV. 589</i> merupakan salah satu karya klasik terbaik dari
-              Antonio Vivaldi, seorang komposer agung tahun 1600-an. Sang pemain violin handal ini tak
-              hanya menuliskan melodi dan harmoni yang sangat memikat hati, tetapi juga makna mendalam
-              dari lirik yang memancarkan kemuliaan Tuhan dan karya-Nya.
-
+              Sepanjang sejarah, Kekristenan sudah menawarkan begitu banyak musik yang agung menjadi sumbangsih dari Gereja untuk 
+              masyarakat, di dalam bentuk konser, pertunjukan-pertunjukan, serta inspirasi untuk para komposer agung dalam sejarah.
             </p>
             <p>
-              Mari menikmati karya ini sambil menemukan keunikannya dalam acara:
+              Bagaimana Kekristenan bisa mewarnai dunia musik? Karena ada paralel antara musik Kristen, Teologi dan juga ekspresi seni. 
+              Musik Kristen untuk memuji Tuhan, teologi untuk mengenal Tuhan. Ekspresi musik Kristen membuat gabungan dari keduanya 
+              menjadi bagian yang penting dari kehidupan dan seni manusia. 
             </p>
             <p>
+              Bagaimana mengombinasikan musik dengan teologi?
+            </p>            
+            <p>
+              Hadirilah<br>
               <b>Konser Edukasi Musik Klasik 2024 - Bandung</b><br>
               <b>Gloria in D major RV.589, Antonio Vivaldi</b>
             </p>
@@ -142,14 +139,17 @@
               Evelyn Karunia, <i>Soprano</i><br>
               Natasha Situmeang, <i>Alto</i><br>
               <br>
-              <b>Waktu & Tempat:</b><br>
               ⌚ Sabtu, 28 September 2024. Pk. 17.00<br>
               📌 Aula Stefanus - GRII Bandung<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jl. Moh. Toha 229, Bandung.
 
             </p>
-            <p> Acara ini gratis (wajib daftar) dan terbuka untuk umum. Mari hadiri dan ajak saudara, kerabat, maupun
-              kenalan kita.</p>
+            <p>
+              Acara ini gratis (wajib daftar) dan terbuka untuk umum.
+            </p>
+            <p>
+              Mari kita kembali dilatih untuk menikmati musik dan mengaitkannya dengan Kekristenan kita melalui karya ini.
+            </p>
             </div>
 
         </div>
