@@ -130,8 +130,8 @@
             </p>            
             <p>
               Hadirilah<br>
-              <b>Konser Edukasi Musik Klasik 2024 - Bandung</b><br>
-              <b>Gloria in D major RV.589, Antonio Vivaldi</b>
+              <strong>Konser Edukasi Musik Klasik 2024 - Bandung<br>
+              Gloria in D major RV.589, Antonio Vivaldi</strong>
             </p>
             <p>
               Pdt. Jimmy Pardede, <i>Pembicara</i><br>
@@ -139,13 +139,13 @@
               Evelyn Karunia, <i>Soprano</i><br>
               Natasha Situmeang, <i>Alto</i><br>
               <br>
-              ⌚ Sabtu, 28 September 2024. Pk. 17.00<br>
-              📌 Aula Stefanus - GRII Bandung<br>
+              ⌚ <strong>Sabtu, 28 September 2024. Pk. 17.00</strong><br>
+              📌 <strong>Aula Stefanus - GRII Bandung</strong><br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jl. Moh. Toha 229, Bandung.
 
             </p>
             <p>
-              Acara ini gratis (wajib daftar) dan terbuka untuk umum.
+              Acara ini gratis (<a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url">wajib daftar</a>) dan terbuka untuk umum.
             </p>
             <p>
               Mari kita kembali dilatih untuk menikmati musik dan mengaitkannya dengan Kekristenan kita melalui karya ini.
