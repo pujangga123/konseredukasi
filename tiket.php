@@ -83,7 +83,7 @@
             <li><a href="index.php#lokasi">Lokasi</a></li>
             <li><a href="index.php#cta">Hubungi Kami</a></li>
     
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
+            <li><a href="https://konseredukasi.com/gloria/daftar.html" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
@@ -101,8 +101,9 @@
           <?php echo $num; ?>
         </div>
         <p>
+        <p>
           Mohon bisa hadir di acara 30 menit sebelum konser dimulai.<br>
-          Alamat GRII Bandung : <a href="https://maps.app.goo.gl/LonewXLZtW8ToEng8">Jl. Moch. Tohan 229</a> <br>
+          Alamat GRII Bandung : <a href="https://maps.app.goo.gl/LonewXLZtW8ToEng8">Jl. Moch. Toha 229</a> <br>
           Informasi lebih lengkap : <a href="https://konseredukasi.com/gloria/">konseredukasi.com</a><br>
           Kontak kami : 0851-0507-1880 <a href="tel:+6285105071880">Telp</a> / <a href="https://wa.me/6285105071880">WhatsApp</a>
         </p>
@@ -115,6 +116,9 @@
 
           <p>
             Bukti pendaftaran sudah dikirim lewat email ke <strong><?php echo $email; ?></strong>.<br>
+            Check <b>SPAM FOLDER</b> untuk kemungkinan tiket tertanda sebagai <i>spam</i>.
+          </p>
+          <p>
             Untuk kemudahan, Anda juga bisa gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
           </p>
         <?php } ?>

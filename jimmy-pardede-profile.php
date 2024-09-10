@@ -69,7 +69,7 @@
                     <li><a href="index.php#lokasi">Lokasi</a></li>
                     <li><a href="index.php#cta">Hubungi Kami</a></li>
 
-                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
+                        <li><a href="https://konseredukasi.com/gloria/daftar.html" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
                     </ul>
                     <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
                 </nav>

@@ -62,10 +62,10 @@ $mail->isHTML(TRUE);
 $mail->Body = "<html>
 <p>Terimakasih, $nama</p>
 <p>Anda telah terdaftar dalam <i>Konser Edukasi Musik Klasik 2024</i> dengan nomer :</p>
-<h1>$max</h1>
+<h1>$nextnum</h1>
 <p>
     Mohon bisa hadir di acara 30 menit sebelum konser dimulai.<br>
-    Alamat GRII Bandung : <a href='https://maps.app.goo.gl/LonewXLZtW8ToEng8'>Jl. Moch. Tohan 229</a> <br>
+    Alamat GRII Bandung : <a href='https://maps.app.goo.gl/LonewXLZtW8ToEng8'>Jl. Moch. Toha 229</a> <br>
     Informasi lebih lengkap : <a href='https://konseredukasi.com/gloria/'>konseredukasi.com</a><br>
     Kontak kami : 0851-0507-1880 <a href='tel:+6285105071880'>Telp</a> / <a href='https://wa.me/6285105071880'>WhatsApp</a>
 </p>
