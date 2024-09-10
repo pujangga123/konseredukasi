@@ -95,18 +95,28 @@
   <main id="main">
     <section id="form" style="padding-top:10px; max-width: 500px;" class="mx-auto">
       <div>
-        <b><?php echo $nama; ?></b>
-        terdaftar dengan nomor<br>
+        <p>Terimakasih <b><?php echo $nama; ?></b></p>
+        <p>Anda telah terdaftar dalam <i>Konser Edukasi Musik Klasik 2024</i> dengan nomer :</p>
         <div style="font-size:5em">
           <?php echo $num; ?>
         </div>
+        <p>
+          Mohon bisa hadir di acara 30 menit sebelum konser dimulai.<br>
+          Alamat GRII Bandung : <a href="https://maps.app.goo.gl/LonewXLZtW8ToEng8">Jl. Moch. Tohan 229</a> <br>
+          Informasi lebih lengkap : <a href="https://konseredukasi.com/gloria/">konseredukasi.com</a><br>
+          Kontak kami : 0851-0507-1880 <a href="tel:+6285105071880">Telp</a> / <a href="https://wa.me/6285105071880">WhatsApp</a>
+        </p>
+        <br>
         <?php if($nomail) { ?>
         <p>          
           Gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
         </p>
         <?php } else { ?>
-          Bukti pendaftaran sudah dikirim lewat email ke <strong><?php echo $email; ?></strong>.<br>
-          Untuk kemudahan, gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
+
+          <p>
+            Bukti pendaftaran sudah dikirim lewat email ke <strong><?php echo $email; ?></strong>.<br>
+            Untuk kemudahan, Anda juga bisa gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
+          </p>
         <?php } ?>
       </div>
     </section>
