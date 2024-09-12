@@ -69,7 +69,7 @@
             <li><a href="index.php#lokasi">Lokasi</a></li>
             <li><a href="index.php#cta">Hubungi Kami</a></li>
     
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
+            <li><a href="https://konseredukasi.com/gloria/daftar.html" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
@@ -84,7 +84,7 @@
     <section id="home" class="home" style="padding-top:0px">
       <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
         <br>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url" 
+        <a href="https://konseredukasi.com/gloria/daftar.html" 
           class="btn-custom text-center" target="_blank" 
           style="padding:5px 10px; width:70%;">
           PENDAFTARAN
@@ -92,7 +92,7 @@
       </div>
       <div style="width:100%">
         
-          <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url'">
+          <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://konseredukasi.com/gloria/daftar.html'">
         
       </div>
     </section>
@@ -145,7 +145,7 @@
 
             </p>
             <p>
-              Acara ini gratis (<a href="https://docs.google.com/forms/d/e/1FAIpQLScRI_y_lHA-XC9t6Iu80-YprC91mejxHBIJtda2pF8TwQ-x2g/viewform?usp=pp_url">wajib daftar</a>) dan terbuka untuk umum.
+              Acara ini gratis (<a href="https://konseredukasi.com/gloria/daftar.html">wajib daftar</a>) dan terbuka untuk umum.
             </p>
             <p>
               Mari kita kembali dilatih untuk menikmati musik dan mengaitkannya dengan Kekristenan kita melalui karya ini.

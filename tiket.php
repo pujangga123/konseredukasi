@@ -12,7 +12,9 @@
     $email = $row[3];
 
 ?><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -43,9 +45,9 @@
   <link href="assets/img/apple-touch-icon-grii.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-    rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -56,73 +58,69 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css?2" rel="stylesheet">
+  <link href="assets/css/style.css?4" rel="stylesheet">
 
 </head>
 
 <body>
+  <header id="header" class="header fixed-top">
+    
+    <div class="branding d-flex align-items-center">
+      <div class="container position-relative d-flex align-items-center justify-content-between">
+        <a href="." class="logo d-flex align-items-center">
+          <!-- Uncomment the line below if you also wish to use an image logo -->
+          <img src="assets/img/logo-konser.png" alt="" style="height:100px">
+          <!-- <h1 class="sitename">Konser Edukasi</h1> -->
+        </a>
 
-  <!-- ======= Top Bar ======= -->
-  <section id="topbar" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="lokasi-info d-flex align-items-center">
-        <!-- <i class="bi bi-envelope-fill"></i><a href="mailto:lokasi@example.com">info@example.com</a> -->
-        <a href="https://wa.me/6285105071880"><i class="bx bxl-whatsapp" style="color:green"></i>Hubungi Kami</a>
+        
 
+        <nav id="navmenu" class="navmenu">
+          <ul>
+            <li><a href="index.php#home" class="active">Home</a></li>
+            <li><a href="index.php#about">About</a></li>
+            <li><a href="index.php#profil">Profil</a></li>
+            <li><a href="index.php#lokasi">Lokasi</a></li>
+            <li><a href="index.php#cta">Hubungi Kami</a></li>
+    
+            <li><a href="https://konseredukasi.com/gloria/daftar.html" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
+          </ul>
+          <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+        </nav>
       </div>
-      <div class="social-links d-none d-md-block">
-        <!--a href="https://www.facebook.com/events/277615368611396/" class="facebook"><i class="bi bi-facebook"></i></a-->
-        <a href="https://griibandung.org"><i class="bx bx-globe"></i></a>
-        <a href="https://www.facebook.com/grii.bandung" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.instagram.com/griibdg" class="instagram"><i class="bx bxl-instagram"></i></a>
-      </div>
-    </div>
-  </section>
+    </div> <!-- END: div branding -->
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex align-items-center justify-content-between">
-      <a href="index.html">
-        <div class="logojudul">
-          <img src="assets/img/grii-logo-white.png" style="width:30px; float:left; margin-right:10px">
-          <div style="display:inline; font-size:12px; color:white; line-height: normal;">
-            <div><b>Konser Edukasi Musik Klasik 2024</b></div>
-            <div><i>Vivaldi, Gloria in D major Rv.589</i></div>
-            <div style="font-size:0.9em">Pdt. Jimmy Pardede & vik. Feby Novitania</div>
-          </div>
-
-        </div>
-      </a>
-
-      <a href="index.html">
-        <div class="logoalamat" style="float:right; color:white; text-align: right; font-size:10px">
-          Aula Stefanus - GRII Bandung<br>
-          📅 Sabtu, 28 Sept 2024<br>
-          ⌚ pk. 17.00
-        </div>
-      </a>
-
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
-    </div>
-  </header><!-- End Header -->
+  </header>
 
   <main id="main">
     <section id="form" style="padding-top:10px; max-width: 500px;" class="mx-auto">
       <div>
-        <b><?php echo $nama; ?></b>
-        terdaftar dengan nomor<br>
+        <p>Terimakasih <b><?php echo $nama; ?></b></p>
+        <p>Anda telah terdaftar dalam <i>Konser Edukasi Musik Klasik 2024</i> dengan nomer :</p>
         <div style="font-size:5em">
           <?php echo $num; ?>
         </div>
+        <p>
+        <p>
+          Mohon bisa hadir di acara 30 menit sebelum konser dimulai.<br>
+          Alamat GRII Bandung : <a href="https://maps.app.goo.gl/LonewXLZtW8ToEng8">Jl. Moch. Toha 229</a> <br>
+          Informasi lebih lengkap : <a href="https://konseredukasi.com/gloria/">konseredukasi.com</a><br>
+          Kontak kami : 0851-0507-1880 <a href="tel:+6285105071880">Telp</a> / <a href="https://wa.me/6285105071880">WhatsApp</a>
+        </p>
+        <br>
         <?php if($nomail) { ?>
         <p>          
           Gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
         </p>
         <?php } else { ?>
-          Bukti pendaftaran sudah dikirim lewat email ke <strong><?php echo $email; ?></strong>.<br>
-          Untuk kemudahan, gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
+
+          <p>
+            Bukti pendaftaran sudah dikirim lewat email ke <strong><?php echo $email; ?></strong>.<br>
+            Check <b>SPAM FOLDER</b> untuk kemungkinan tiket tertanda sebagai <i>spam</i>.
+          </p>
+          <p>
+            Untuk kemudahan, Anda juga bisa gunakan tangkapan layar/screenshot halaman ini untuk digunakan pada saat kehadiran.
+          </p>
         <?php } ?>
       </div>
     </section>
