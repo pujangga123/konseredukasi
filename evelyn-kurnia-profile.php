@@ -100,8 +100,8 @@
                         <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
                     </div>
                     <div class="col-lg-6  col-12">
-                        <h4><b>Natasha Situmeang</b></h4>
-                        <h5><i>Alto</i></h5>
+                        <h4><b>Evelyn Kurnia</b></h4>
+                        <h5><i>Sopran</i></h5>
                         <img src="assets/img/garis.png" style="max-width:50%; margin-bottom:10px">
                         <br>
                         <p>
