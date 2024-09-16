@@ -38,6 +38,7 @@ while (false !== ($entry = $d->read())) {
         }
         $total++;
     }
+    ksort($arr,SORT_NUMERIC);
 }
 $d->close();
 if($checkin>0) {
@@ -55,16 +56,16 @@ if($checkin>0) {
 </head>
 <body>
     <?php if($editmode) { ?>
-        <a href="list.php">View Mode</a> - <a href="download.php">Download CSV</a>
+        <a href="list.php">View Mode</a> - <a href="download.php">Download CSV</a> - <a href="import.php">Import</a>
     <?php } else { ?>
         <a href="list.php?edit">Edit Mode</a>
     <?php } ?> - <a href="auth.php?logout">Log out</a>
     <div style="max-width:200px; margin-left:15px; margin-top:15px; font-weight:bold">
         <?php echo "Total: $total ($rasio% Check In)"; ?>
     </div>
-    <div style="max-width:200px" class="m-3">
-        <input type="text" id="num" style="font-size:5em" class="form-control text-center">
-        <button type="button" class="btn btn-primary mt-1" style="width:100%" onclick="window.location='checkin.php?num='+document.getElementById('num').value">Check In</button>
+    <div style="max-width:230px" class="m-3">
+        <input type="text" id="num" style="font-size:5em" class="form-control text-center" onkeydown="pressed(this)">
+        <button type="button" class="btn btn-primary mt-1" style="width:100%" onclick="checkin(document.getElementById('num').value)">Check In</button>
         <?php if($checked!='') { ?>
         <div class="border radius mt-1 p-2">
             <?php echo $checked; ?>
@@ -96,4 +97,17 @@ if($checkin>0) {
         </tbody>
     </table>
 </body>
+<script>
+    function pressed(obj) {
+        if(event.keyCode == 13) {
+            checkin(obj.value);
+        }
+    }
+
+    function checkin(num) {
+        window.location = "checkin.php?num="+num;
+    }
+
+    document.getElementById('num').focus();
+</script>
 </html>

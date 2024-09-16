@@ -178,7 +178,7 @@
               <i>Konduktor</i>
             </div>
           </div>
-          <div class="col-6 col-lg-3">
+          <div class="col-6 col-lg-3" onclick="window.location='evelyn-kurnia-profile.php'" style="cursor:pointer">
             <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" style="max-width:100%">
             <div style="background-color: #c5aa76;" class="text-center p-2">
               <b>Evelyn Kurnia</b><br>

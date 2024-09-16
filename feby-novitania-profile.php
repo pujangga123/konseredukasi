@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Konser Edukasi Musik Klasik 2024 - Bandung</title>
+    <title>Profil: Feby Novitania - Konser Edukasi Musik Klasik 2024 - Bandung</title>
     <meta content="Konser Edukasi Musik Klasik 2024" name="description">
     <meta content="musik klasik,jimmy pardede,feby novitania,antonio vivaldi,gloria,grii bandung,bandung,konser"
         name="keywords">

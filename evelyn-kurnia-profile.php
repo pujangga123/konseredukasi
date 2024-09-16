@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Profil: Natasha Situmeang - Konser Edukasi Musik Klasik 2024 - Bandung</title>
+    <title>Profil: Evelyn Kurnia - Konser Edukasi Musik Klasik 2024 - Bandung</title>
     <meta content="Konser Edukasi Musik Klasik 2024" name="description">
     <meta content="musik klasik,jimmy pardede,feby novitania,antonio vivaldi,gloria,grii bandung,bandung,konser"
         name="keywords">
@@ -97,7 +97,7 @@
             <div class="container" style="width:80%; max-width:800px">
                 <div class="row">
                     <div class="col-lg-6 col-12 mb-3">
-                        <img src="assets/img/natasha-situmeang-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
+                        <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
                     </div>
                     <div class="col-lg-6  col-12">
                         <h4><b>Natasha Situmeang</b></h4>
@@ -105,34 +105,23 @@
                         <img src="assets/img/garis.png" style="max-width:50%; margin-bottom:10px">
                         <br>
                         <p>
-                            Natasha, lahir di Jakarta, mulai mengenal dan menekuni musik saat berusia 4 tahun
-                            dengan mengikuti kursus piano di Sekolah Musik Yamaha hingga grade 6.
-                            Ia lantas melanjutkan dengan kursus privat ABRSM Royal sampai grade 8.
-                            Pada saat itu, ia juga secara khusus diundang berpartisipasi dalam paduan suara
-                            Sekolah Musik Yamaha yang tampil dengan orkestra di beberapa lokasi umum di Jakarta.
+                            Evelyn Karunia, yang lahir di Tangerang, memulai perjalanan musiknya pada usia 8 tahun dengan mempelajari 
+                            instrumen piano di Petrof Music School dan bergabung dengan paduan suara Vox Angelicus serta paduan
+                            suara GRII Karawaci. Ia kemudian melanjutkan studi pianonya secara privat di bawah bimbingan Stephen Cahyadi. 
+                            Pada tahun 2012, Evelyn melanjutkan studi musiknya di UPH Conservatory of Music, dengan spesialisasi dalam
+                            <i>Classical Voice Performance</i>, di bawah bimbingan Monica Hwang Hwa Sook, Binu Sukaman, dan Delima Simamora. 
                         </p>
                         
                         <p>
-                            Natasha kemudian melanjutkan pelajaran musik dan vokal dari guru-guru yang luar biasa
-                            seperti Tirza Rachmadi, dan mengikuti lokakarya vokal oleh Joseph Kristanto Pantioso.
+                            Setelah lulus, Evelyn tetap aktif di bidang musik, tampil dalam berbagai konser baik di dalam negeri maupun 
+                            internasional, termasuk di Singapura, Kaohsiung, Taipei, Hong Kong, Sydney, Melbourne, Perth, dan Roma.
+                            Ia juga melayani di beberapa cabang GRII yang diantaranya Pusat, Karawaci, Kebon Jeruk, Bintaro, BSD, Bandung,
+                            Palembang, dan Cikarang. Saat ini, Evelyn melanjutkan studi vokalnya secara privat di bawah asuhan Cecilia Yap, 
+                            mengajar vokal dan piano, serta aktif bernyanyi bersama Jakarta Oratorio Society. Selain itu ia juga
+                            berpartisipasi dalam beberapa <i>masterclass</i> yang dipimpin oleh Michael Wilder, Joseph Hopkins, dan Lorraine Nawa.
                         </p>
                         
-                        <p>
-                            Walaupun saat ini berkarir di bidang hukum, Natasha tetap aktif dalam pelayanan
-                            di bidang musik di GRII Karawaci, dan merupakan anggota aktif dari Jakarta Oratorio
-                            Society (JOS).
-                        </p> 
                         
-                        <p>
-                            Ia kerap tampil sebagai anggota paduan suara dan solois di GRII Karawaci, GRII Pusat,
-                            GRII Kebon Jeruk, MRII Jambi, dan di Aula Simfonia Jakarta. Dia juga telah tampil
-                            di berbagai kota seperti Jakarta, Medan, Singapura, Hong Kong
-                            dan Taiwan, menyanyikan lagu-lagu seperti Chichester Psalms karya Bernstein,
-                            Requiem karya Verdi, Simfoni ke-9 karya Beethoven, Creation karya Haydn, Magnificat
-                            karya Bach, Messiah karya Handel, serta Lobgesang dan Elijah karya Mendelssohn dan
-                            banyak karya oratorio lainnya di bawah pimpinan konduktor seperti
-                            Pdt. Dr. Stephen Tong, Jahja Ling, Eunice Tong dan Rebecca Tong.
-                        </p>
                     </div>
                 </div>
             </div>
