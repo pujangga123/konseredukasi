@@ -5,6 +5,10 @@ $jeniskelamin = $_POST['jeniskelamin'];
 $telp = $_POST['telp'];
 $email = $_POST['email'];
 
+if($nama=="") {
+    header("location:daftar.html?gagal");
+}
+
 $infoSosmed = isset($_POST['infoSosmed'])?1:0;
 $infoWhatsapp = isset($_POST['infoWhatsapp'])?1:0;
 $infoGereja = isset($_POST['infoGereja'])?1:0;

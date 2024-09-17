@@ -15,17 +15,17 @@ while (false !== ($entry = $d->read())) {
         $line = file_get_contents($folder.$entry);
         $row = explode(";",$line);
         $arr[$entry] = array(
-            'nama' => $row[0],
-            'jeniskelamin' => $row[2],
-            'telp' => $row[2],
-            'email' => $row[3],
-            'sosmed' => $row[4],
-            'whatsapp' => $row[5],
-            'gereja' => $row[6],
-            'keluarga' => $row[7],
-            'spanduk' => $row[8],
-            'lain' => $row[9],
-            'status' => $row[10]
+            'nama' => isset($row[0])?$row[0]:"",
+            'jeniskelamin' => isset($row[2])?$row[2]:"",
+            'telp' => isset($row[2])?$row[2]:"",
+            'email' => isset($row[3])?$row[3]:"",
+            'sosmed' => isset($row[4])?$row[4]:"",
+            'whatsapp' => isset($row[5])?$row[5]:"",
+            'gereja' => isset($row[6])?$row[6]:"",
+            'keluarga' => isset($row[7])?$row[7]:"",
+            'spanduk' => isset($row[8])?$row[8]:"",
+            'lain' => isset($row[9])?$row[9]:"",
+            'status' => isset($row[10])?$row[10]:""
         );
         // format telp
         $telp = $arr[$entry]['telp'];
@@ -33,7 +33,7 @@ while (false !== ($entry = $d->read())) {
             $telp = "628".substr($telp,2,20);
             $arr[$entry]['telp'] = $telp;
         }
-        if($row[10]=='checkin') {
+        if($arr[$entry]['status']=='checkin') {
             $checkin++;
         }
         $total++;

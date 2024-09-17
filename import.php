@@ -7,7 +7,6 @@ if(isset($_POST['content'])) {
     foreach($lines as $key=>$row) {
         if($row!="") {
             $data = explode(";",$row);
-            var_dump($data);
             $entry = array(
                 $data[1], // nama (WAJIB)
                 isset($data[2])?$data[2]:"", // jenis kelamin
