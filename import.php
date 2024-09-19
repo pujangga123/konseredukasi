@@ -19,6 +19,7 @@ if(isset($_POST['content'])) {
                 isset($data[9])?trim($data[9]):"", // spanduk 
                 isset($data[10])?trim($data[10]):"", // lain
                 isset($data[11])?trim($data[11]):"-", // status
+                isset($data[12])?trim($data[12]):"", // institusi
             );
             $f=fopen("data/".$data[0],"w");
             fwrite($f,implode(";", $entry));

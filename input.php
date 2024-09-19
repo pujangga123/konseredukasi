@@ -15,6 +15,7 @@ $infoGereja = isset($_POST['infoGereja'])?1:0;
 $infoKeluarga = isset($_POST['infoKeluarga'])?1:0;
 $infoSpanduk = isset($_POST['infoSpanduk'])?1:0;
 $infoLain = isset($_POST['infoLain'])?str_replace(';',',',$_POST['infoLain']):0;
+$institusi = isset($_POST['institusi'])?$_POST['institusi']:'';
 
 // get last number
 $folder = "data/";
@@ -34,7 +35,7 @@ $d->close();
 
 $nextnum = $max+1;
 $myfile = fopen("$folder/$nextnum", "w") or die("Unable to open file!");
-$txt = "$nama;$jeniskelamin;$telp;$email;$infoSosmed;$infoWhatsapp;$infoGereja;$infoKeluarga;$infoSpanduk;$infoLain;-";
+$txt = "$nama;$jeniskelamin;$telp;$email;$infoSosmed;$infoWhatsapp;$infoGereja;$infoKeluarga;$infoSpanduk;$infoLain;-;$institusi";
 fwrite($myfile, $txt);
 fclose($myfile);
 

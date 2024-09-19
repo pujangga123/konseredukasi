@@ -25,7 +25,8 @@ while (false !== ($entry = $d->read())) {
             'keluarga' => isset($row[7])?$row[7]:"",
             'spanduk' => isset($row[8])?$row[8]:"",
             'lain' => isset($row[9])?$row[9]:"",
-            'status' => isset($row[10])?$row[10]:""
+            'status' => isset($row[10])?$row[10]:"",
+            'institusi' => isset($row[11])?$row[11]:""
         );
         // format telp
         $telp = $arr[$entry]['telp'];
@@ -88,7 +89,7 @@ if($checkin>0) {
                     <td><?php echo $row['nama'];?></td>
                     <td><?php echo ($row['status']=="checkin")?"✔":$row['status']; ?></td>
                     <?php if($editmode) { ?>
-                        <td><a href="https://wa.me/<?php echo $row['telp']; ?>?text=Pendaftaran+Konser+Edukasi%0D%0ANomor:*<?php echo $key; ?>*%0D%0A%0D%0Ahttps://konseredukasi.com/gloria/tiket.php%26num=<?php echo $key; ?>">WhatsApp</a> - <a href="#" onclick="alert('not implemented')">Email</a> - <a href="#">Hapus</a></td>
+                        <td><a href="https://wa.me/<?php echo $row['telp']; ?>?text=Pendaftaran+Konser+Edukasi%0D%0ANomor:*<?php echo $key; ?>*%0D%0A%0D%0Ahttps://konseredukasi.com/gloria/tiket.php%26num=<?php echo $key; ?>">WhatsApp</a> - <a href="hapus.php?num=<?php echo $key; ?>">Hapus</a></td>
                     <?php } else { ?>
                         <td><a href="checkin.php?num=<?php echo $key; ?>">check in</a> - <a href="checkin.php?num=<?php echo $key; ?>&status=-">uncheck</a></td>
                     <?php } ?>

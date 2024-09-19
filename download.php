@@ -19,7 +19,8 @@ while (false !== ($entry = $d->read())) {
             'keluarga' => isset($row[7])?$row[7]:"",
             'spanduk' => isset($row[8])?$row[8]:"",
             'lain' => isset($row[9])?$row[9]:"",
-            'status' => isset($row[10])?$row[10]:""
+            'status' => isset($row[10])?$row[10]:"",
+            'institusi' => isset($row[11])?$row[11]:""
         );
     }
 }
