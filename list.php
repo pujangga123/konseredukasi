@@ -57,7 +57,7 @@ if($checkin>0) {
 </head>
 <body>
     <?php if($editmode) { ?>
-        <a href="list.php">View Mode</a> - <a href="download.php">Download CSV</a> - <a href="import.php">Import</a>
+        <a href="list.php?<?php echo date("YmdHis") ?>">View Mode</a> - <a href="download.php">Download CSV</a> - <a href="import.php">Import</a>
     <?php } else { ?>
         <a href="list.php?edit">Edit Mode</a>
     <?php } ?> - <a href="auth.php?logout">Log out</a>

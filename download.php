@@ -26,9 +26,9 @@ while (false !== ($entry = $d->read())) {
 }
 $d->close();
 
-$timestamp = date("YmdHis");
 header('Content-Type: application/csv');
-header('Content-Disposition: attachment; filename="'.$timestamp.'-peserta.csv";');
+header('Content-Disposition: attachment; filename="'.date('YmdHis').'-peserta.csv";');
+header('Cache-Control: must-revalidate, post-check=0, pre-check=0');
 
 // open the "output" stream
 // see http://www.php.net/manual/en/wrappers.php.php#refsect2-wrappers.php-unknown-unknown-unknown-descriptioq
