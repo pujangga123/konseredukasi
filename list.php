@@ -89,7 +89,7 @@ if($checkin>0) {
                     <td><?php echo $row['nama'];?></td>
                     <td><?php echo ($row['status']=="checkin")?"✔":$row['status']; ?></td>
                     <?php if($editmode) { ?>
-                        <td><a href="https://wa.me/<?php echo $row['telp']; ?>?text=Pendaftaran+Konser+Edukasi%0D%0ANomor:*<?php echo $key; ?>*%0D%0A%0D%0Ahttps://konseredukasi.com/gloria/tiket.php%26num=<?php echo $key; ?>">WhatsApp</a> - <a href="hapus.php?num=<?php echo $key; ?>">Hapus</a></td>
+                        <td><a href="https://wa.me/<?php echo $row['telp']; ?>?text=Pendaftaran+Konser+Edukasi%0D%0A<?php echo $row['nama']; ?>%0D%0ANomor:*<?php echo $key; ?>*%0D%0A%0D%0A">WhatsApp</a> - <a href="hapus.php?num=<?php echo $key; ?>">Hapus</a></td>
                     <?php } else { ?>
                         <td><a href="checkin.php?num=<?php echo $key; ?>">check in</a> - <a href="checkin.php?num=<?php echo $key; ?>&status=-">uncheck</a></td>
                     <?php } ?>
