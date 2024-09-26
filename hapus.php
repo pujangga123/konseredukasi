@@ -4,6 +4,6 @@ $num = $_GET['num'];
 
 unlink("data/$num");
 
-header("location: list.php");
+header("location: list.php?edit");
 
     
