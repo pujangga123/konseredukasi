@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Profil: Evelyn Kurnia - Konser Edukasi Musik Klasik 2024 - Bandung</title>
+    <title>Profil: Evelyn Karunia - Konser Edukasi Musik Klasik 2024 - Bandung</title>
     <meta content="Konser Edukasi Musik Klasik 2024" name="description">
     <meta content="musik klasik,jimmy pardede,feby novitania,antonio vivaldi,gloria,grii bandung,bandung,konser"
         name="keywords">
@@ -97,10 +97,10 @@
             <div class="container" style="width:80%; max-width:800px">
                 <div class="row">
                     <div class="col-lg-6 col-12 mb-3">
-                        <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
+                        <img src="assets/img/evelyn-Karunia-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
                     </div>
                     <div class="col-lg-6  col-12">
-                        <h4><b>Evelyn Kurnia</b></h4>
+                        <h4><b>Evelyn Karunia</b></h4>
                         <h5><i>Sopran</i></h5>
                         <img src="assets/img/garis.png" style="max-width:50%; margin-bottom:10px">
                         <br>
