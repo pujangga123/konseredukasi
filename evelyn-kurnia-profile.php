@@ -97,7 +97,7 @@
             <div class="container" style="width:80%; max-width:800px">
                 <div class="row">
                     <div class="col-lg-6 col-12 mb-3">
-                        <img src="assets/img/evelyn-Karunia-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
+                        <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" class="mx-auto" style="width:100%; max-width:300px">
                     </div>
                     <div class="col-lg-6  col-12">
                         <h4><b>Evelyn Karunia</b></h4>
