@@ -178,8 +178,8 @@
               <i>Konduktor</i>
             </div>
           </div>
-          <div class="col-6 col-lg-3" onclick="window.location='evelyn-Karunia-profile.php'" style="cursor:pointer">
-            <img src="assets/img/evelyn-Karunia-profile.jpg" alt="" style="max-width:100%">
+          <div class="col-6 col-lg-3" onclick="window.location='evelyn-kurnia-profile.php'" style="cursor:pointer">
+            <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" style="max-width:100%">
             <div style="background-color: #c5aa76;" class="text-center p-2">
               <b>Evelyn Karunia</b><br>
               <i>Sopran</i>
