@@ -84,11 +84,17 @@
     <section id="home" class="home" style="padding-top:0px">
       <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
         <br>
+        <a href="assets/Booklet_KonserEdukasiGloria2024" 
+          class="btn-custom text-center" target="_blank" 
+          style="padding:5px 10px; width:70%;">
+          📖 BOOKLET
+        </a><br>
         <a href="https://konseredukasi.com/gloria/daftar.html" 
           class="btn-custom text-center" target="_blank" 
           style="padding:5px 10px; width:70%;">
           PENDAFTARAN
         </a>
+        
       </div>
       <div style="width:100%">
         
