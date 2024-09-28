@@ -83,12 +83,7 @@
     <!-- ======= HOME Section ======= -->
     <section id="home" class="home" style="padding-top:0px">
       <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
-        <br>
-        <a href="assets/Booklet_KonserEdukasiGloria2024" 
-          class="btn-custom text-center" target="_blank" 
-          style="padding:5px 10px; width:70%;">
-          📖 BOOKLET
-        </a><br>
+        <br>        
         <a href="https://konseredukasi.com/gloria/daftar.html" 
           class="btn-custom text-center" target="_blank" 
           style="padding:5px 10px; width:70%;">
@@ -100,6 +95,11 @@
         
           <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://konseredukasi.com/gloria/daftar.html'">
         
+          <a href="assets/Booklet_KonserEdukasiGloria2024" 
+          class="btn-custom text-center" target="_blank" 
+          style="padding:5px 10px; width:70%;">
+          📖 BOOKLET
+            </a>
       </div>
     </section>
 
