@@ -96,7 +96,7 @@
           <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://konseredukasi.com/gloria/daftar.html'">
         
           <a href="assets/Booklet_KonserEdukasiGloria2024" 
-          class="btn-custom text-center" target="_blank" 
+          class="btn-custom text-center mt-2" target="_blank" 
           style="padding:7px 10px; width:70%; font-size:1.3em">
           📖 BOOKLET
             </a>
