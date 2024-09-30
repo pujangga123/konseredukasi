@@ -68,8 +68,6 @@
             <li><a href="index.php#profil">Profil</a></li>
             <li><a href="index.php#lokasi">Lokasi</a></li>
             <li><a href="index.php#cta">Hubungi Kami</a></li>
-    
-            <li><a href="https://konseredukasi.com/gloria/daftar.html" class="btn-custom text-center" target="_blank" style="padding:5px 10px; font-family: Roboto, sans-serif;">PENDAFTARAN</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
@@ -82,24 +80,14 @@
     
     <!-- ======= HOME Section ======= -->
     <section id="home" class="home" style="padding-top:0px">
-      <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
-        <br>        
-        <a href="https://konseredukasi.com/gloria/daftar.html" 
-          class="btn-custom text-center" target="_blank" 
-          style="padding:5px 10px; width:70%;">
-          PENDAFTARAN
-        </a>
-        
-      </div>
-      <div style="width:100%" class="text-center">
-        
-          <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://konseredukasi.com/gloria/daftar.html'">
-        
-          <a href="assets/Booklet_KonserEdukasiGloria2024.pdf" 
-          class="btn-custom text-center mt-2" target="_blank" 
-          style="padding:7px 10px; width:70%; font-size:1.3em">
-          📖 BOOKLET
-            </a>
+      <div style="width:100%; font-size:1.2em" class="text-center mt-3">
+        <p>Bersyukur untuk <strong>Konser Edukasi 2024</strong> yang telah diadakan.<br>
+        Nantikan acara Konser Edukasi berikutnya.</p>
+        <iframe  
+            height="400"
+            style="width:100%" 
+            src="https://www.youtube.com/embed/nVNUQF2pkes?si=2LyIpNVWFoCmN0hD" title="YouTube video player" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </section>
 
