@@ -5,26 +5,26 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Konser Edukasi Musik Klasik 2024 - Bandung</title>
-  <meta content="Konser Edukasi Musik Klasik 2024" name="description">
-  <meta content="musik klasik,jimmy pardede,feby novitania,antonio vivaldi,gloria,grii bandung,bandung,konser"
+  <title>Konser Edukasi Musik Klasik 2026 - Bandung</title>
+  <meta content="Konser Edukasi Musik Klasik 2026" name="description">
+  <meta content="musik klasik,billy kristanto,feby novitania,antonio vivaldi,of joy and pain,grii bandung,bandung,konser"
     name="keywords">
 
   <!-- WhatsApp Preview -->
   <!-- ref: https://stackoverflow.com/questions/19778620/provide-an-image-for-whatsapp-link-sharing -->
-  <meta name="description" content="Sabtu, 28 Sept 2024 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
-  <meta property="og:title" content="Konser Edukasi Musik Klasik 2024 - Bandung" />
-  <meta property="og:url" content="https://konseredukasi.com/gloria/" />
-  <meta property="og:description" content="Sabtu, 28 Sept 2024 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
-  <meta property="og:image" content="https://konseredukasi.com/gloria/assets/img/logo-gloria-square2.jpg">
+  <meta name="description" content="Sabtu, 15 Agustus 2026 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
+  <meta property="og:title" content="Konser Edukasi Musik Klasik 2026 - Bandung" />
+  <meta property="og:url" content="https://konseredukasi.com/of-joy-and-pain/" />
+  <meta property="og:description" content="Sabtu, 15 Agustus 2026 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
+  <meta property="og:image" content="https://konseredukasi.com/of-joy-and-pain/assets/img/logo-gloria-square2.jpg">
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="id_ID" />
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Konser Edukasi Musik Klasik 2024 - Bandung">
-  <meta name="twitter:description" content="Sabtu, 28 Sept 2024 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
-  <meta name="twitter:title" content="Konser Edukasi Musik Klasik 2024 - Bandung" />
-  <meta name="twitter:image" content="https://konseredukasi.com/gloria/assets/img/logo-gloria-square2.jpg">
+  <meta name="twitter:title" content="Konser Edukasi Musik Klasik 2026 - Bandung">
+  <meta name="twitter:description" content="Sabtu, 15 Agustus 2026 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
+  <meta name="twitter:title" content="Konser Edukasi Musik Klasik 2026 - Bandung" />
+  <meta name="twitter:image" content="https://konseredukasi.com/of-joy-and-pain/assets/img/logo-gloria-square2.jpg">
 
   <!-- Favicons -->
   <link href="assets/img/favicon-grii.png" rel="icon">
@@ -80,14 +80,24 @@
     
     <!-- ======= HOME Section ======= -->
     <section id="home" class="home" style="padding-top:0px">
-      <div style="width:100%; font-size:1.2em" class="text-center mt-3">
-        <p>Bersyukur untuk <strong>Konser Edukasi 2024</strong> yang telah diadakan.<br>
-        Nantikan acara Konser Edukasi berikutnya.</p>
-        <iframe  
-            height="400"
-            style="width:100%" 
-            src="https://www.youtube.com/embed/nVNUQF2pkes?si=2LyIpNVWFoCmN0hD" title="YouTube video player" 
-            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
+        <br>        
+        <a href="https://konseredukasi.com/gloria/daftar.html" 
+          class="btn-custom text-center" target="_blank" 
+          style="padding:5px 10px; width:70%;">
+          PENDAFTARAN
+        </a>
+        
+      </div>
+      <div style="width:100%" class="text-center">
+        
+          <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://konseredukasi.com/gloria/daftar.html'">
+        
+          <a href="assets/Booklet_KonserEdukasiGloria2024.pdf" 
+          class="btn-custom text-center mt-2" target="_blank" 
+          style="padding:7px 10px; width:70%; font-size:1.3em">
+          📖 BOOKLET
+            </a>
       </div>
     </section>
 
@@ -124,7 +134,7 @@
             </p>            
             <p>
               Hadirilah<br>
-              <strong>Konser Edukasi Musik Klasik 2024 - Bandung<br>
+              <strong>Konser Edukasi Musik Klasik 2026 - Bandung<br>
               Gloria in D major RV.589, Antonio Vivaldi</strong>
             </p>
             <p>
@@ -139,7 +149,7 @@
 
             </p>
             <p>
-              Acara ini gratis (<a href="https://konseredukasi.com/gloria/daftar.html">wajib daftar</a>) dan terbuka untuk umum.
+              Acara ini gratis (<a href="https://konseredukasi.com/of-joy-and-pain/daftar.html">wajib daftar</a>) dan terbuka untuk umum.
             </p>
             <p>
               Mari kita kembali dilatih untuk menikmati musik dan mengaitkannya dengan Kekristenan kita melalui karya ini.
@@ -158,34 +168,14 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-6 col-lg-3" onclick="window.location='jimmy-pardede-profile.php'" style="cursor:pointer">
-            <img src="assets/img/jimmy-pardede-profile.jpg" alt="" style="max-width:100%">
-            <div style="background-color: #c5aa76;" class="text-center p-2">
-              <b>Pdt. Jimmy Pardede</b><br>
-              <i>Pembicara</i>
+          <div class="offset-4 col-4" style="cursor:pointer; text-align:center">
+            <img src="assets/img/billy-kristanto.jfif" alt="" style="max-width:100%">
+            <div style="background-color: #c5aa76; color:black" class="text-center p-2">
+              <b>Pdt. Billy Kristanto, Ph.D, Th.D</b><br>
+              <i>Konduktor & Pembicara</i>
             </div>
           </div>
-          <div class="col-6 col-lg-3" onclick="window.location='feby-novitania-profile.php'" style="cursor:pointer">
-            <img src="assets/img/feby-novitania-profile.jpg" alt="" style="max-width:100%">
-            <div style="background-color: #c5aa76;" class="text-center p-2">
-              <b>Vik. Feby Novitania</b><br>
-              <i>Konduktor</i>
-            </div>
-          </div>
-          <div class="col-6 col-lg-3" onclick="window.location='evelyn-kurnia-profile.php'" style="cursor:pointer">
-            <img src="assets/img/evelyn-kurnia-profile.jpg" alt="" style="max-width:100%">
-            <div style="background-color: #c5aa76;" class="text-center p-2">
-              <b>Evelyn Karunia</b><br>
-              <i>Sopran</i>
-            </div>
-          </div>
-          <div class="col-6 col-lg-3" onclick="window.location='natasha-situmeang-profile.php'" style="cursor:pointer">
-            <img src="assets/img/natasha-situmeang-profile.jpg" alt="" style="max-width:100%">
-            <div style="background-color: #c5aa76;" class="text-center p-2">
-              <b>Natasha Situmeang</b><br>
-              <i>Alto</i>
-            </div>
-          </div>
+          
         </div>
       </div>
     </section>
