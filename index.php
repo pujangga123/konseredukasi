@@ -81,20 +81,21 @@
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about" style="padding-top:10px">
-      <div class="section-title">
+      <!--div class="section-title">
         <h2>Mengenai Konser</h2>
         <img src="assets/img/garis.png">
-      </div>
+      </div-->
       <div class="container">
         <div class="row">
           <div class="col-lg-5 order-1 order-lg-1" data-aos="fade-left">
-            <iframe
+            <img src="assets/img/logo-joy-portrait.jpeg" style="width:100%">
+            <!--iframe
               src="https://www.youtube.com/embed/PmNycAMundo?si=WJZidsVvpvQYLB57"
               height="400"
               style="width:100%"
               title="YouTube video player" frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-            </iframe>
+            </iframe-->
           </div>
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
             <p>
@@ -111,16 +112,20 @@
             </p>            
             <p>
               Hadirilah<br>
-              <strong>Konser Edukasi Musik Klasik 2026 - Bandung<br>
-              Gloria in D major RV.589, Antonio Vivaldi</strong>
+              <strong>Konser Edukasi Musik Klasik 2026 - Bandung</strong><br>
+              Menampilkan karya <b>Bach, Vivaldi, Buxtehude, Massenet,</b> dll
             </p>
             <p>
-              Pdt. Jimmy Pardede, <i>Pembicara</i><br>
-              Vik. Feby Novitania, <i>Konduktor</i><br>
-              Evelyn Karunia, <i>Soprano</i><br>
-              Natasha Situmeang, <i>Alto</i><br>
+              Pdt. Prof. Billy Kristano, Ph.D, Th.D. <i style="color:orange">Pembicara & Konduktor</i><br>
+              Tamariska Kristianto <i style="color:orange">Violin</i><br>
+              Andrea Yeni S <i style="color:orange">Soprano</i><br>
+              Inggrid Patricia <i style="color:orange">Soprano</i><br>
+              Elita Lawalata <i style="color:orange">Alto</i><br>
+              Agur Wirasena <i style="color:orange">Tenor</i><br>
+              Ferry Chandra <i style="color:orange">Bass</i><br>
+              Paduan Suara, & Ensemble GRII Bandung<br>
               <br>
-              ⌚ <strong>Sabtu, 28 September 2024. Pk. 17.00</strong><br>
+              ⌚ <strong>Sabtu, 15 Agustus 2026. Pk. 17.00</strong><br>
               📌 <strong>Aula Stefanus - GRII Bandung</strong><br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jl. Moh. Toha 229, Bandung.
 
