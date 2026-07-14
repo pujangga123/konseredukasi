@@ -7,7 +7,7 @@
 
   <title>Konser Edukasi Musik Klasik 2026 - Bandung</title>
   <meta content="Konser Edukasi Musik Klasik 2026" name="description">
-  <meta content="musik klasik,billy kristanto,feby novitania,antonio vivaldi,of joy and pain,grii bandung,bandung,konser"
+  <meta content="musik klasik,billy kristanto,vivaldi,bach,buxtehude,massenet,of joy and pain,grii bandung,bandung,konser"
     name="keywords">
 
   <!-- WhatsApp Preview -->
