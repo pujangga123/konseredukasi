@@ -68,6 +68,13 @@
             <li><a href="index.php#profil">Profil</a></li>
             <li><a href="index.php#lokasi">Lokasi</a></li>
             <li><a href="index.php#cta">Hubungi Kami</a></li>
+            <li><a href="daftar.html" 
+                style="border:2px solid white; background:maroon; color:white; font-size:1.2em; 
+                        padding: 4px; width:100%; margin-bottom:6px; display:block;
+                        text-align:center; border-radius: 5px;
+                        ">
+                ✋ DAFTAR
+            </a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
@@ -87,7 +94,14 @@
       </div-->
       <div class="container">
         <div class="row">
-          <div class="col-lg-5 order-1 order-lg-1" data-aos="fade-left">
+          <div class="col-lg-5 order-1 order-lg-1" data-aos="fade-left">    
+            <a href="daftar.html" 
+                style="border:2px solid white; background:maroon; color:white; font-size:1.4em; 
+                        padding: 4px; width:100%; margin-bottom:6px; display:block;
+                        text-align:center; border-radius: 5px;
+                        ">
+                ✋ DAFTAR
+            </a>        
             <img src="assets/img/logo-joy-portrait.jpeg" style="width:100%">
             <!--iframe
               src="https://www.youtube.com/embed/PmNycAMundo?si=WJZidsVvpvQYLB57"
@@ -111,9 +125,8 @@
               Bagaimana mengombinasikan musik dengan teologi?
             </p>            
             <p>
-              Hadirilah<br>
-              <strong>Konser Edukasi Musik Klasik 2026 - Bandung</strong><br>
-              Menampilkan karya <b>Bach, Vivaldi, Buxtehude, Massenet,</b> dll
+              Hadirilah <strong>Konser Edukasi Musik Klasik 2026 - Bandung</strong><br>
+              Menampilkan karya <b style="color:orange">Bach, Vivaldi, Buxtehude, Massenet,</b> dll
             </p>
             <p>
               Pdt. Prof. Billy Kristano, Ph.D, Th.D. <i style="color:orange">Pembicara & Konduktor</i><br>
