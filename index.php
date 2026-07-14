@@ -16,7 +16,7 @@
   <meta property="og:title" content="Konser Edukasi Musik Klasik 2026 - Bandung" />
   <meta property="og:url" content="https://konseredukasi.com/of-joy-and-pain/" />
   <meta property="og:description" content="Sabtu, 15 Agustus 2026 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
-  <meta property="og:image" content="https://konseredukasi.com/of-joy-and-pain/assets/img/logo-gloria-square2.jpg">
+  <meta property="og:image" content="https://konseredukasi.com/of-joy-and-pain/assets/img/logo-joy-square.jpeg">
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="id_ID" />
 
@@ -24,7 +24,7 @@
   <meta name="twitter:title" content="Konser Edukasi Musik Klasik 2026 - Bandung">
   <meta name="twitter:description" content="Sabtu, 15 Agustus 2026 ⌚ pk 17.00 📍 Aula Stefanus - GRII Bandung.">
   <meta name="twitter:title" content="Konser Edukasi Musik Klasik 2026 - Bandung" />
-  <meta name="twitter:image" content="https://konseredukasi.com/of-joy-and-pain/assets/img/logo-gloria-square2.jpg">
+  <meta name="twitter:image" content="https://konseredukasi.com/of-joy-and-pain/assets/img/logo-joy-square.jpeg">
 
   <!-- Favicons -->
   <link href="assets/img/favicon-grii.png" rel="icon">
@@ -77,29 +77,6 @@
   </header>
 
   <main id="main">
-    
-    <!-- ======= HOME Section ======= -->
-    <section id="home" class="home" style="padding-top:0px">
-      <div class="text-center d-block d-md-none d-lg-none" style="text-align: center;">
-        <br>        
-        <a href="https://konseredukasi.com/gloria/daftar.html" 
-          class="btn-custom text-center" target="_blank" 
-          style="padding:5px 10px; width:70%;">
-          PENDAFTARAN
-        </a>
-        
-      </div>
-      <div style="width:100%" class="text-center">
-        
-          <img src="assets/img/logo-gloria-landscape-2.jpg" style="max-width:100%; cursor:pointer" onclick="window.location='https://konseredukasi.com/gloria/daftar.html'">
-        
-          <a href="assets/Booklet_KonserEdukasiGloria2024.pdf" 
-          class="btn-custom text-center mt-2" target="_blank" 
-          style="padding:7px 10px; width:70%; font-size:1.3em">
-          📖 BOOKLET
-            </a>
-      </div>
-    </section>
 
 
     <!-- ======= About Section ======= -->
