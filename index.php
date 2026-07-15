@@ -163,7 +163,7 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="offset-4 col-4" style="cursor:pointer; text-align:center" onclick="window.open('profile-billy-kristanto.php')">
+                    <div class="offset-4 col-6" style="cursor:pointer; text-align:center" onclick="window.open('profile-billy-kristanto.php')">
                         <img src="assets/img/billy-kristanto.png" alt="" style="max-width:100%">
                         <div style="background-color: #c5aa76; color:black" class="text-center p-2">
                             <b>Pdt. Billy Kristanto, Ph.D, Th.D</b><br>
