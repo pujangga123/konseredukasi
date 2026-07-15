@@ -14,6 +14,7 @@ $infoWhatsapp = isset($_POST['infoWhatsapp'])?1:0;
 $infoGereja = isset($_POST['infoGereja'])?1:0;
 $infoKeluarga = isset($_POST['infoKeluarga'])?1:0;
 $infoSpanduk = isset($_POST['infoSpanduk'])?1:0;
+$infoRadio = isset($_POST['infoRadio'])?1:0;
 $infoLain = isset($_POST['infoLain'])?str_replace(';',',',$_POST['infoLain']):0;
 $institusi = isset($_POST['institusi'])?$_POST['institusi']:'';
 
