@@ -129,14 +129,14 @@
                             Menampilkan karya <b style="color:orange">Bach, Vivaldi, Buxtehude, Massenet,</b> dll
                         </p>
                         <p>
-                            Pdt. Prof. Billy Kristano, Ph.D, Th.D. <i style="color:orange">Pembicara & Konduktor</i><br>
-                            Tamariska Kristianto <i style="color:orange">Violin</i><br>
-                            Andrea Yeni S <i style="color:orange">Soprano</i><br>
-                            Inggrid Patricia <i style="color:orange">Soprano</i><br>
-                            Elita Lawalata <i style="color:orange">Alto</i><br>
-                            Agur Wirasena <i style="color:orange">Tenor</i><br>
-                            Ferry Chandra <i style="color:orange">Bass</i><br>
-                            Paduan Suara, & Ensemble GRII Bandung<br>
+                            🤵 Pdt. Prof. Billy Kristano, Ph.D, Th.D. <i style="color:orange">Pembicara & Konduktor</i><br>
+                            🎻 Tamariska Kristianto <i style="color:orange">Violin</i><br>
+                            🎶 Andrea Yeni S <i style="color:orange">Soprano</i><br>
+                            🎶 Inggrid Patricia <i style="color:orange">Soprano</i><br>
+                            🎶 Elita Lawalata <i style="color:orange">Alto</i><br>
+                            🎶 Agur Wirasena <i style="color:orange">Tenor</i><br>
+                            🎶 Ferry Chandra <i style="color:orange">Bass</i><br>
+                            👨‍👨‍👦‍👦 Paduan Suara, & Ensemble GRII Bandung<br>
                             <br>
                             ⌚ <strong>Sabtu, 15 Agustus 2026. Pk. 17.00</strong><br>
                             📌 <strong>Aula Stefanus - GRII Bandung</strong><br>
