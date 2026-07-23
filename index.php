@@ -221,7 +221,7 @@
                             <i class='bx bxl-whatsapp' style="font-size:2.5em; color:black"></i>
                         </div>
                         <h4 class="mt-2">WhatsApp</h4>
-                        <div><a href="https://wa.me/6285105071880">+62 851-0507-1880</a></div>
+                        <div><a href="https://wa.me/6281122211188">0811-2221-1188</a></div>
                     </div>
                     <div class="col text-center">
                         <div style="background-color:#c5aa76; width:60px; border-radius:50%; padding:10px; margin:auto;">
